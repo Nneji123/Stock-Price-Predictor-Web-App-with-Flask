@@ -1,6 +1,7 @@
 # Stock Price Predictor Web App 
 In this project I developed a machine learning model and a web app with flask for the backend and html, css for the frontend to predict stock prices. 
 
+![stock gif](https://user-images.githubusercontent.com/101701760/170535722-7ea40c38-3d72-4a92-b9aa-ae4f7b7d7a76.gif)
 
 ## Data
 The data used was gotten from Yahoo Finance using the yfinance api. To use the api run the following:
@@ -36,4 +37,4 @@ python app.py
 Then you can view the site on your local server: http://127.0.0.1:5000/ 
 
 ## Deployment
-Yet to be deployed
+The site can be deployed to heroku and can also be viewed here: https://stock-price-predictors.herokuapp.com/
