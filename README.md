@@ -1,4 +1,7 @@
 # Stock Price Predictor Web App 
+[![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
+[![Framework](https://img.shields.io/badge/framework-Flask-brightgreen.svg?style=flat)](http://www.pygame.org/news.html)
+
 In this project I developed a machine learning model and a web app with flask for the backend and html, css for the frontend to predict stock prices. 
 
 ![stock gif](https://user-images.githubusercontent.com/101701760/170535722-7ea40c38-3d72-4a92-b9aa-ae4f7b7d7a76.gif)
