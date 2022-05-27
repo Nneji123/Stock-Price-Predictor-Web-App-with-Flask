@@ -1,6 +1,8 @@
 # Stock Price Predictor Web App 
 [![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
 [![Framework](https://img.shields.io/badge/framework-Flask-brightgreen.svg?style=flat)](http://www.pygame.org/news.html)
+![hosted](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![build](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat)
 
 In this project I developed a machine learning model and a web app with flask for the backend and html, css for the frontend to predict stock prices. 
 
