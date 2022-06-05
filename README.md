@@ -1,6 +1,8 @@
 # Stock Price Predictor Web App 
-[![Language](https://img.shields.io/badge/language-python-blue.svg?style=flat)](https://www.python.org)
-[![Framework](https://img.shields.io/badge/framework-Flask-brightgreen.svg?style=flat)](http://www.pygame.org/news.html)
+[![Language](https://img.shields.io/badge/HTML-black.svg?style=flat&logo=html5&logoColor=white)](https://www.html.com)
+[![Language](https://img.shields.io/badge/CSS-red.svg?style=flat&logo=css3&logoColor=white)](https://www.css.org)
+[![Language](https://img.shields.io/badge/Python-yellow.svg?style=flat&logo=python&logoColor=white )](https://www.python.org)
+[![Framework](https://img.shields.io/badge/Flask-brightgreen.svg?style=flat&logo=Flask&logoColor=white )](http://www.pygame.org/news.html)
 ![hosted](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![build](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat)
 
