@@ -12,7 +12,7 @@ In this project I developed a machine learning model and a web app with flask fo
 
 ## Data
 The data used was gotten from Yahoo Finance using the yfinance api. To use the api run the following:
-```
+```py
 pip install yfinance
 import yfinance as yf
 data = yf.download("Name of Stock","Starting date", "Ending Date", auto_adjust = true)
